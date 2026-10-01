@@ -1,12 +1,13 @@
 # Hi, I'm Chukwuma 👋
 
-Beginner programming, Git, and GitHub through practical projects, also interested in Ai
+I'm a beginner learning programming, Git, and GitHub through practical projects. I'm also interested in AI and digital technology.
 
- Currently Learning
+## 🚀 Currently Learning
 
 * Programming
 * Git & GitHub
 * Digital skills
+* AI
 
 ## 🎯 My Goal
 
@@ -14,4 +15,23 @@ To develop practical technology skills by learning, building projects, and impro
 
 ## 📂 My Projects
 
-I'm currently working on my first project, hopefully will get all possible assistant here when needed
+I'm currently working on practical projects as part of my learning journey.
+
+## ⚙️ Git Configuration
+
+```text
+user.email=chukwuma.n.ndukwu@gmail.com
+user.name=chukwuma Ndukwu
+```
+
+These are the details shown by:
+
+```bash
+git config --global --list
+```
+
+## 🔗 My Work
+
+* [My Live Page](https://chukwuma-n.github.io/)
+* [Markdown Practice](markdown-practice.md)
+* [Team Repository](#)
