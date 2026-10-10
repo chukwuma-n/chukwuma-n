@@ -4,16 +4,14 @@ I'm a beginner learning programming, Git, and GitHub through practical projects.
 
 ## 🚀 Currently Learning
 
-* Git and GitHub workflows
-* Branching and merging
-* Pull requests and code reviews
-* Merge conflict resolution
-* Command-line fundamentals
-* Bash scripting
-* HTML, CSS, and JavaScript
-* AI and digital technology
-
-## 🛠️ Tech Stack
+- Git and GitHub workflows
+- Branching and merging
+- Pull requests and code reviews
+- Merge conflict resolution
+- Command-line fundamentals
+- Bash scripting
+- HTML, CSS, and JavaScript
+- AI and digital technology
 
 ## 🛠️ Tech Stack
 
@@ -50,12 +48,17 @@ Continued practicing HTML, CSS, accessibility, forms, and GitHub workflows.
 
 Practicing command-line fundamentals, Git branching, commits, shell scripting, pull requests, code review, and merge conflict resolution.
 
-## 🌐 My Work
+## 🌐 My Work — Week 0 Submission Links
 
-* [Live Portfolio](https://chukwuma-n.github.io/)
-* [Week 1 Repository](https://github.com/chukwuma-n/iyf-s12-week-01-chukwuma-n)
-* [Week 2 Repository](https://github.com/chukwuma-n/iyf-s12-week-02-chukwuma-n)
-* [Week 3 Repository](https://github.com/chukwuma-n/iyf-s12-week-03-chukwuma-n)
+- **[My Live Portfolio](https://chukwuma-n.github.io/)**
+- **[My Markdown Practice — All 8 Exercises](https://github.com/chukwuma-n/chukwuma-n/blob/main/markdown-practice.md)**
+- **[My Week 0 Team Repository](https://github.com/ShemaKevin970/iyf-s12-week-00-ShemaKevin970)**
+
+## 📚 Other Projects
+
+- [Week 1 Repository](https://github.com/chukwuma-n/iyf-s12-week-01-chukwuma-n)
+- [Week 2 Repository](https://github.com/chukwuma-n/iyf-s12-week-02-chukwuma-n)
+- [Week 3 Repository](https://github.com/chukwuma-n/iyf-s12-week-03-chukwuma-n)
 
 ## ⚙️ Git Configuration
 
@@ -69,17 +72,6 @@ These are the details shown by:
 ```bash
 git config --global --list
 ```
-
-## 📚 What I'm Practicing
-
-* Writing meaningful Git commits
-* Creating and managing branches
-* Merging feature branches
-* Resolving merge conflicts
-* Using GitHub pull requests
-* Reviewing and approving code
-* Working from the command line
-* Automating tasks with Bash scripts
 
 ## 💡 Learning Philosophy
 
